@@ -56,7 +56,7 @@ export default function Project(props: ProjectType) {
         <div className="flex flex-wrap justify-center space-x-2 mb-4">
           {
             (props.tags.map((tag, index) => (
-              <div className="font-light bg-primary text-white m-1 px-3 py-0.5 rounded-full">
+              <div key= {index} className="font-light bg-primary text-white m-1 px-3 py-0.5 rounded-full">
                 <p>{tag}</p>
               </div>
             )))

@@ -5,7 +5,7 @@ export default function Contact(){
     return (
         <section id= "contact" className="w-full pt-12 md:pt-24 lg:pt-32 xl:pt-48 pb-6 md:pb-12 lg:pb-16 xl:pb-24">
                 <div className = "container px-4 md:px-6 py-12 md:py-18">
-                <h1 className = "inline text-5xl font-bold">Let's Work Together</h1>
+                <h1 className = "inline text-5xl font-bold">Let&apos;s Work Together</h1>
                 <h1 className = "inline text-5xl font-bold text-primary">.</h1>
                 </div>
                 

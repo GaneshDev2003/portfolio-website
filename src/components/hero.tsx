@@ -14,7 +14,7 @@ export default function Hero() {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <h1 className="inline text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                Hi, I'm </h1>
+                Hi, I&apos;m </h1>
               <h1 className="inline text-3xl text-primary font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
                 Ganesh S
               </h1>

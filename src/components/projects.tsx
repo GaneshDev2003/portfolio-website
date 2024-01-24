@@ -60,7 +60,7 @@ export default function Projects() {
         <div className="grid container px-4 md:px-6 gap-6 lg:grid-cols-3 lg:gap-12 xl:grid-cols-3 px-4 md:px-6">
           {
             (projects.map((project, index)=>(
-              <Project title = {project.title} description={project.description} image = {project.image} tags = {project.tags} gitHubLink={project.gitHubLink} externalLink = {project.externalLink} ></Project>
+              <Project key = {index} title = {project.title} description={project.description} image = {project.image} tags = {project.tags} gitHubLink={project.gitHubLink} externalLink = {project.externalLink} ></Project>
             )))
           }
         </div>
