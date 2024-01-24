@@ -24,7 +24,7 @@ export default function Projects() {
       image:"/images/instispace.jpg",
       tags:["Flutter", "NestJS", "GraphQL", "PostgreSQL", "AWS"],
       gitHubLink:"",
-      externalLink:"https://www.canva.com/design/DAF30B1WyRo/ftb3k5GEE5Dt5DFhy5ffkQ/edit?utm_content=DAF30B1WyRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      externalLink:"https://play.google.com/store/apps/details?id=com.cfi.instispace&hl=en&gl=US",
     },
     {
       title: "Investor Insights",
