@@ -9,7 +9,7 @@ export default function About() {
           <h1 className = "inline text-5xl font-bold">About me</h1>
           <h1 className = "inline text-5xl font-bold text-primary">.</h1>
         </div>
-        <p>I&apos;m a 4th year undergrad from IIT Madras, pursuing a dual degree in Mechanical Engineering and Data Science. I&apos;m a Fullstack Developer with a passion for Machine Learning and AI. I developed a burning passion for coding in my highschool days with Java. After joining IIT Madras, I joined several programming clubs and built several real-world projects. I joined as an intern at Standard Chartered GBS, where I was tasked with a migration automation project in Python. Mesmerized by the whims of AI, I switched to a dual degree program in Data Science. My current endeavour is leveraging the power of AI through easy-to-use software products.</p>
+        <p>I&apos;m a final year undergrad from IIT Madras, pursuing a dual degree with Masters in Data Science and Bachelors in Mechanical Engineering. I have a deep passion for research and appliation in AI and Machine Learning. </p>
       </section>
     )
   }

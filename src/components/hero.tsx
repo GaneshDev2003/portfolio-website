@@ -17,22 +17,20 @@ export default function Hero() {
                 Ganesh S
               </h1>
               <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-                Fullstack Developer. AI Engineer.
+                AI Researcher. ML Engineer.
               </p>
             </div>
             <div className="w-full max-w-sm space-y-2"></div>
           </div>
-          <div
-            className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative"
-            style={{ width: "450px", height: "450px", position: "relative" }}
-          >
-            <Image
-              alt="Mountains"
-              src="/images/hero-image.png"
-              layout="fill"
-              objectFit="contain"
-            />
-          </div>
+          <div className="flex justify-center items-center mt-8">
+      <div className="w-96 h-96 rounded-full overflow-hidden border-2 border-primary shadow-md">
+        <img
+          src="/images/ganeshs.jpeg" // Replace this with the path to your picture
+          alt="Your Name"
+          className="w-full h-full object-cover"
+        />
+      </div>
+    </div>
         </div>
       </div>
     </section>
