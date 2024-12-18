@@ -11,7 +11,7 @@ export default function Research() {
         <div className="container">
           <div className="mb-10 ms-4">
             <h3 className="text-lg font-semibold">
-              Master's Thesis - Deployability of LLM designed Rewards for Restless Multi Armed Bandits
+              Master Thesis - Deployability of LLM designed Rewards for Restless Multi Armed Bandits
             </h3>
             <p className="text-md font-semibold">Advisor: Prof. Balaraman Ravindran</p>
             <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
